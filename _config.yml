@@ -2,6 +2,7 @@ theme: minima
 
 header_pages:
   - index.md
+  - about.md
 
 show_excerpts: true
 
