@@ -2,7 +2,6 @@ theme: minima
 
 header_pages:
   - index.md
-  - posts.md
 
 show_excerpts: true
 
