@@ -5,3 +5,9 @@ header_pages:
   - posts.md
 
 show_excerpts: true
+
+minima:
+  social_links:
+    twitter: beautidata
+    github: beautidata
+    stackoverflow: "beautidata"
