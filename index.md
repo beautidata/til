@@ -1,5 +1,3 @@
-## today i learned
-
 ### something new
 
 and this is my collection 
