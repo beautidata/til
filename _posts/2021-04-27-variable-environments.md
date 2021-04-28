@@ -10,10 +10,12 @@ date: 2021-04-27
 
 turns out writing a flask app that uses configparser to read a `.ini` file containing sensitive data causes complications when that file does not get deployed to heroku via their github integration. this can be mitigated using environment variables:
 
+in your terminal like so:
 ```bash
 export VARIABLE_NAME=your_sensitive_authentication_key
 ```
 
+in your python script like so:
 ```python
 import os
 
