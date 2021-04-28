@@ -8,7 +8,7 @@ date: 2021-04-27
 
 "automatically deploy your app to heroku for free!" they said.
 
-turns out writing a flask app that uses configparser to read a `.ini` file containing sensitive data causes complications when that file does not get deployed to heroku via their github integration. this can be mitigated using environment variables:
+turns out writing a flask app that uses configparser to read a `.ini` file containing sensitive data causes complications when that file does not get deployed to heroku via their github integration. this can be mitigated using environment variables...
 
 in your terminal like so:
 ```bash
